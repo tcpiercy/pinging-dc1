@@ -29,7 +29,7 @@ This tutorial outlines the process of pinging DC-1 from the client.<br />
 
 <h2>Configuration Steps</h2>
 
-<a href="(https://www.youtube.com/watch?v=TLoGqZEgk50)"_blank">
+<a href="[https://www.youtube.com/watch?v=bTMG993DjBA]" target="_blank">
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active_directory_with_blue_play_button.png" width="400">
 </a>
 <p>
