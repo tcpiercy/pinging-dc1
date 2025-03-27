@@ -1,4 +1,4 @@
-![DNS Screenshot](https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/DNS%20Screenshot.png)
+img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active%20directory%20snip.png" width="400"
 
 
 <h1>osTicket - Post-Install Configuration</h1>
