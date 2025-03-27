@@ -26,7 +26,7 @@ This tutorial outlines the process of pinging DC-1 from the client.<br />
   <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active_directory_with_blue_play_button.png" width="400">
 </a>
 <p>
-In the clip above, I ping DC-1 from the client side.
+In the clip above, I ping DC-1 from Client 1.
 </p>
 <br />
 
