@@ -13,7 +13,7 @@ This tutorial outlines the process of pinging DC-1 from the client.<br />
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory
-- CMD Prompt
+- Powershell
 
 <h2>Operating Systems Used </h2>
 
